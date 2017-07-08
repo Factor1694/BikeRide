@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:3:5-23
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ae30def06e4c574e28c5f2ec640105d4cb4b89e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\1b29f092e21ea95e0caf72e8d0489fb631359a4e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\424970244241d1c3ec5a227c0eb7ce4adf1f8bbe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\c33ad4b0de18c43cc8ca77bf6738c393747528df\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ca8828b696a9355a599badc245e935018637c243\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\0fc003b6ea0a7563328b126d677d49737f67d25c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\4d230f3ac5b64673cdaac140674fd5e34a6cfd52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\cc7167a1730203aa4a4865bc6a9e9d6e93dca22a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\bc8023414b72dfec4597be28c6a7627794226d53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\228ab1d5b3b1941833d1cb187e3e596e0b37d455\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Антона\.android\build-cache\72fe9b3f5ba235be8bb472d7bee9046bc6a1632d\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:11:9-40
+activity#pak.menu.MainActivity
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ae30def06e4c574e28c5f2ec640105d4cb4b89e0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\1b29f092e21ea95e0caf72e8d0489fb631359a4e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\424970244241d1c3ec5a227c0eb7ce4adf1f8bbe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\fb7755de3be3369a694471b1c9ed2dd998112236\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\c33ad4b0de18c43cc8ca77bf6738c393747528df\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ca8828b696a9355a599badc245e935018637c243\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\0fc003b6ea0a7563328b126d677d49737f67d25c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\4d230f3ac5b64673cdaac140674fd5e34a6cfd52\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\cc7167a1730203aa4a4865bc6a9e9d6e93dca22a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\bc8023414b72dfec4597be28c6a7627794226d53\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\228ab1d5b3b1941833d1cb187e3e596e0b37d455\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Антона\.android\build-cache\72fe9b3f5ba235be8bb472d7bee9046bc6a1632d\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidBikeRide\Menu2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ae30def06e4c574e28c5f2ec640105d4cb4b89e0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\1b29f092e21ea95e0caf72e8d0489fb631359a4e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\424970244241d1c3ec5a227c0eb7ce4adf1f8bbe\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\fb7755de3be3369a694471b1c9ed2dd998112236\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\c33ad4b0de18c43cc8ca77bf6738c393747528df\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\ca8828b696a9355a599badc245e935018637c243\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\0fc003b6ea0a7563328b126d677d49737f67d25c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\4d230f3ac5b64673cdaac140674fd5e34a6cfd52\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\cc7167a1730203aa4a4865bc6a9e9d6e93dca22a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\bc8023414b72dfec4597be28c6a7627794226d53\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\228ab1d5b3b1941833d1cb187e3e596e0b37d455\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Антона\.android\build-cache\7ac58f4955758ab27418465f8b12c3da49f25911\output\AndroidManifest.xml:26:9-47
